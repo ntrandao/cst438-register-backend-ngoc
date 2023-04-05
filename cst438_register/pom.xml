@@ -79,7 +79,6 @@
 		<!-- end selenium -->
 		
 	</dependencies>
-
 	<build>
 		<plugins>
 			<plugin>
